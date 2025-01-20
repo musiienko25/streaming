@@ -1,3 +1,6 @@
 [submodule "streaming"]
 	path = streaming
 	url = https://github.com/musiienko25/streaming
+[submodule "back"]
+	path = back
+	url = ./back
